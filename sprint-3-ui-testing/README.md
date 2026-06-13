@@ -48,7 +48,7 @@ Verificar que la interfaz cumpla con el diseño y los requisitos funcionales def
 
 Los casos de prueba completos (checklist de diseño, método de pago, lógica del botón "Reservar" y flujo de reserva) están disponibles en:
 
-📄 [`casos-de-prueba.xlsx`](./casos-de-prueba.xlsx)
+📄 [`Luis_Tamez_72_grupo_3er_sprint.xlsx`](./Luis_Tamez_72_grupo_3er_sprint.xlsx)
 
 ---
 
